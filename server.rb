@@ -1,7 +1,7 @@
 require 'sinatra'
 
+
+
 get '/' do
-
- "Hello"
-
+  File.read(File.join('HTML', 'index.html'))
 end
