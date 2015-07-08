@@ -729,16 +729,23 @@ textarea {
     position: relative;
     top: -100px;
     margin-top: 5em;
+
     -webkit-transition: top 1.5s;
     -moz-transition: top 1.5s;
     -o-transition: top 1.5s;
+
+   
 }
 #bitme:hover {
     top: -10px;
+
     -webkit-transition: top 0.3s;
     -moz-transition: top 0.3s;
     -o-transition: top 0.3s;
+
 }
+
+
 
 /*===================================
 ======= Hello ==============
