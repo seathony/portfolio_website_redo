@@ -67,6 +67,15 @@ html a {
 
 }
 
+
+@font-face {
+    font-family: zona;
+   src: url('fonts/ZonaPro.ttf')format("opentype");
+
+}
+
+
+
 /*Font Face Bit_Out*/
 
 @font-face {
@@ -207,7 +216,7 @@ ul.nav-menu li {
     /*font-weight: 700;*/
     color: #FFFFFF;
     text-transform: uppercase;
-    font-family: Open sans;
+    font-family: zona;
 }
 ul.nav-menu li a {
 
