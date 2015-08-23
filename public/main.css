@@ -205,12 +205,12 @@ ul.nav-menu li {
     top: -59px;
     float: left;
 /*    font-size: 12px;*/
-   font-style: italic;
+    /*font-style: italic;*/
     font-size: 16px;
     font-weight: 700;
     color: #FFFFFF;
     text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif;
+    font-family: sabo;
 }
 ul.nav-menu li a {
 
