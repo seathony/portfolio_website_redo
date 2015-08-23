@@ -28,6 +28,11 @@ html a {
     -webkit-font-smoothing: antialiased;
 }
 
+
+h2, p {
+  text-align: center;
+}
+
 /*Font Face Fontello*/
 
 @font-face {
@@ -765,6 +770,7 @@ textarea {
     top: -2.5em;
     color: black;
     font-family: sabo;
+    text-align: center;
 }
 
 /*===================================
