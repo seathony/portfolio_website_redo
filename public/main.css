@@ -29,7 +29,7 @@ html a {
 }
 
 
-h2, p {
+h2, h3 {
   text-align: center;
 }
 
@@ -176,6 +176,7 @@ p {
     position: fixed;
     top: 0;
     box-shadow: 0px 0.75px 5px #EBEBEB;
+    padding-bottom: 15px;
 }
 #header .inner {
     padding-top: 34px;
@@ -185,12 +186,16 @@ p {
 
 /*logo*/
 
-/*
+
 h1.logo {
-    height: 75px;
-    width: 75px;
-        background: url(images/mergingbear.png) no-repeat;
+  position: absolute;
+    top: -1px;
+    height: 70px;
+    width: 20%;
+    background: url(images/mergingbear.png) no-repeat;
     text-indent: -9999px;
+    margin-bottom: 5000px;
+    /*z-index: auto:*/
 }
 h1.logo a {
     display: block;
@@ -202,7 +207,7 @@ h1.logo a {
 h1.logo:hover {
     height: 20px;
 }
-*/
+
 
 
 /*Nav Menu*/
